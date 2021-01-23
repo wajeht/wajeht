@@ -1,4 +1,4 @@
-hi
+Hi,
 
-If you're coming from my resume, the projects that </br>
-I've listed on my resume are pinned below!
+If you're coming from my resume, the projects</br>
+that I've listed on my resume are pinned below!
