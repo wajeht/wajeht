@@ -2,7 +2,7 @@
 
 Check out some of the projects which I have done to solve a specific problems that I have faced personally or at a professional level. 
 
-Currently I am working on a <a href="https://github.com/wajeht/check-in-systems">check-in systems</a> project for local community college computer lab to track student visit during covid period!
+Currently I am working on a <a href="https://github.com/wajeht/training-log-v2">training-log-v2:</a> a full-stack web application to log training videos with the respect to your privacy!
 
 
 <p align="center">
