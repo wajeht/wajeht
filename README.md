@@ -1,17 +1,14 @@
 ### 👋 Hi there,
 
-This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love which may not be as clean or followed best practices of many of the best paradiumn. So, use it as your own risk! 
+This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love that may not be as clean or followed the best practices of many of the best paradigms. So, use it at your own risk!
 
-But, I am currently working on a systems <a href="https://prime.jawstrength.com/" target="_blank"><i>(prime)</i></a> which can help you the analize, predict, and tack many of the day to day varibles in the powerlifting world!
-
-
-<p align="center">
-____________________________________
-<br>
-  <a href="https://www.linkedin.com/in/kyawsny/" target="_blank">🔗</a>
-  <a href="mailto:kyawsny@gmail.com" target="_blank">💌</a>
-  <a href="https://jaw.cool/" target="_blank">🌐</a>
-</p>
+But, I am currently working on a system <a href="https://prime.jawstrength.com/" target="_blank">(prime)</a> that can help you analyze, predict, and tack many of the day-to-day variables in the powerlifting world. If you're attracted by strength, stay tuned. This system will get you mad strong!
 
 
-
+<div align="center">
+  <span>____________________________________</span>
+  <br>
+  <a href="https://www.linkedin.com/in/kyawsny/">🔗</a>
+  <a href="mailto:kyawsny@gmail.com">💌</a>
+  <a href="https://jaw.cool/">🌐</a>
+</div>
