@@ -10,5 +10,5 @@ I am currently working on a system called <a href="https://gains.jaw.dev/" targe
   <br>
   <a href="https://www.linkedin.com/in/kyawsny/">🔗</a>
   <a href="mailto:kyawsny@gmail.com">💌</a>
-  <a href="https://jaw.cool/">🌐</a>
+  <a href="https://jaw.dev/">🌐</a>
 </div>
