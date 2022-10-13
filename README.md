@@ -8,7 +8,8 @@ I am currently working on a system called <a href="https://gains.jaw.dev/" targe
 <div align="center">
   <span>____________________________________</span>
   <br>
-  <a href="https://www.linkedin.com/in/kyawsny/">🔗</a>
-  <a href="mailto:kyawsny@gmail.com">💌</a>
+  <br>
+  <a href="https://www.linkedin.com/in/kyawsny/">🔗</a>&nbsp;&nbsp;
+  <a href="mailto:kyawsny@gmail.com">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>
 </div>
