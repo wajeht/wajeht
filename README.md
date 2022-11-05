@@ -6,7 +6,7 @@ I am currently working on a system called <a href="https://gains.jaw.dev/" targe
 
 I am also working on <a href="https://close-powerlifting.jaw.dev/" target="_blank">(close-powerlifting)</a>, a reverse proxy on top of open-powerlifting database so us developers can access is easily!
 
-If you're attracted by strength, stay tuned. This system will get you mad strong!
+If you're attracted by strength, stay tuned. These system will get you mad strong!
 
 
 <div align="center">
