@@ -11,7 +11,7 @@ If you're a student of strength, stay tuned. These systems will get you mad stro
   <span>____________________________________</span>
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/kyawsny/">🔗</a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kyawsny/">🖇️</a>&nbsp;&nbsp;
   <a href="mailto:kyawsny@gmail.com">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>
 </div>
