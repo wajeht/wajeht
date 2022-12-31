@@ -2,7 +2,7 @@
 
 <!--- This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love that may not be as clean or followed the best practices of many of the best paradigms. So, use it at your own risk! --->
 
-I am currently working on a system called <a href="https://gains.jaw.dev/" target="_blank">(gains)</a> that can help you analyze, predict, and track many of the day-to-day variables in the powerlifting world. I am also working on <a href="https://close-powerlifting.jaw.dev/" target="_blank">(close-powerlifting)</a>, a reverse proxy on top of open-powerlifting database so us developers can access any data easily!
+I am currently working on a system called <a href="https://gains.jaw.dev/" target="_blank">(gains)</a> that can help you analyze, predict, and track many of the day-to-day variables in the powerlifting world. I am also working on <a href="https://close-powerlifting.jaw.dev/" target="_blank">(close-powerlifting)</a>, a reverse proxy REST API on top of open-powerlifting database so us developers can access any data easily!
 
 If you're a student of strength, stay tuned. These systems will get you mad strong!
 
