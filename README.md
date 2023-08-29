@@ -1,12 +1,12 @@
 ### 👋 Hi there,
 
-<!--- This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love that may not be as clean or followed the best practices of many of the best paradigms. So, use it at your own risk! --->
+<!--- This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love that may not be as clean or follow the best practices of many of the best paradigms. So, use it at your own risk! --->
 
-I am currently working on a system called <a href="https://gains.jaw.dev/" target="_blank">(gains)</a> that can help you analyze, predict, and track many of the day-to-day variables in the powerlifting world. I am also working on <a href="https://close-powerlifting.jaw.dev/" target="_blank">(close-powerlifting)</a>, a reverse proxy REST API on top of open-powerlifting database so us developers can access any data easily!
+I am currently working on a system called <a href="https://gains.jaw.dev/" target="_blank">(gains)</a> that can help you analyze, predict, and track many of the day-to-day variables in the powerlifting world. I am also working on <a href="https://close-powerlifting.jaw.dev/" target="_blank">(close-powerlifting)</a>, a reverse proxy REST API on top of the open-powerlifting database so we developers can access any data easily!
 
 If you're a student of strength, stay tuned. These systems will get you mad strong!
 
-While you're still here, check out my cute dogs pictures here <a href="https://dogs.jaw.homes/" target="_blank">(dogs.jaw.homes)</a>.
+While you're still here, check out my cute dog pictures here <a href="https://dogs.jaw.homes/" target="_blank">(dogs.jaw.homes)</a>.
 
 <div align="center">
   <span>____________________________________</span>
