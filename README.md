@@ -6,7 +6,7 @@ I am currently working on a system called <a href="https://gains.jaw.dev/" targe
 
 If you're a student of strength, stay tuned. These systems will get you mad strong!
 
-While you're still here, check out my cute dog pictures here <a href="https://dogs.jaw.dev/" target="_blank">(dogs.jaw.homes)</a>.
+While you're still here, check out my cute dog pictures here <a href="https://dogs.jaw.dev/" target="_blank">(dogs.jaw.dev)</a>.
 
 <div align="center">
   <span>____________________________________</span>
