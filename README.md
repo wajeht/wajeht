@@ -1,4 +1,4 @@
-### 👋 Hi there,
+### 👋 hi there, this is *Jaw!*
 
 <!--- This repo consists of me trying to iterate an idea to a minimum viable product. The codes are put together with a form of love that may not be as clean or follow the best practices of many of the best paradigms. So, use it at your own risk! --->
 
