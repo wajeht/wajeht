@@ -14,6 +14,6 @@ While you're still here, check out my cute dog pictures here <a href="https://do
   <br>
   <a href="https://www.linkedin.com/in/kyawsny/">🖇️</a>&nbsp;&nbsp;
   <a href="mailto:kyawsny@gmail.com">💌</a>&nbsp;&nbsp;
-  <a href="https://jaw.dev/">🌐</a>
+  <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
   <a href="https://dogs.jaw.dev/">🐶</a>
 </div>
