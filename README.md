@@ -8,7 +8,7 @@ If you're a student of strength, stay tuned. These systems will get you mad stro
 
 While you're still here, check out my cute dog pictures here <a href="https://dogs.jaw.dev/" target="_blank">(dogs.jaw.dev)</a>.
 
-And also checkout my broken ankle journey <a href="https://ankle.jaw.dev/" target="_blank">(ankle.jaw.dev)</a>.
+<!--- And also checkout my broken ankle journey <a href="https://ankle.jaw.dev/" target="_blank">(ankle.jaw.dev)</a>. --->
 
 <div align="center">
   <span>____________________________________</span>
@@ -17,6 +17,6 @@ And also checkout my broken ankle journey <a href="https://ankle.jaw.dev/" targe
   <a href="https://www.linkedin.com/in/kyawsny/">🖇️</a>&nbsp;&nbsp;
   <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
-  <a href="https://ankle.jaw.dev/">🩼</a>&nbsp;&nbsp;
+<!--   <a href="https://ankle.jaw.dev/">🩼</a>&nbsp;&nbsp; -->
   <a href="https://dogs.jaw.dev/">🐶</a>
 </div>
