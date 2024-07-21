@@ -10,7 +10,6 @@ While you're still here, check out my cute dog pictures <a href="https://dogs.ja
   <span>____________________________________</span>
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/kyawsny/">🖇️</a>&nbsp;&nbsp;
   <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
   <a href="https://dogs.jaw.dev/">🐶</a>
