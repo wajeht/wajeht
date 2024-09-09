@@ -18,6 +18,6 @@ I am a `HTML Brogrammer` and a part-time <a href="https://videos.jaw.dev">`Meat 
   <br>
   <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
-  <a href="https://dogs.jaw.dev/">🐶</a>
+  <a href="https://dogs.jaw.dev/">🐶</a>&nbsp;&nbsp;
   <a href="https://videos.jaw.dev/">📺</a>
 </div>
