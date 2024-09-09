@@ -1,6 +1,6 @@
 ### 👋 hi there, this is *Jaw!*
 
-I am a `HTML Brogrammer` and a part-time competitive <a href="https://videos.jaw.dev">`Meat Head`</a>. My passions? Tinkering with *dev tools*, crafting slick *UX-rich software*, and diving deep into the rabbit hole of *self-hosting and homelabbing*.
+I am a `HTML Brogrammer` and a part-time competitive <a href="https://videos.jaw.dev">`Meat Head`</a>. My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
 It's not just work - it's a lifestyle, bro!
 
