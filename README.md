@@ -18,9 +18,11 @@ I'm a `HTML Brogrammer` and a part-time competitive [`Meat Head`](https://videos
 - [🏋️ Close Powerlifting](https://close-powerlifting.jaw.dev/) - an intuitive API for Open Powerlifting database
 
 <div align="center">
-
----
-
-[💌](mailto:github@jaw.dev) &nbsp;&nbsp; [🌐](https://jaw.dev/) &nbsp;&nbsp; [🐶](https://dogs.jaw.dev/) &nbsp;&nbsp; [📺](https://videos.jaw.dev/)
-
+  <span>____________________________________</span>
+  <br>
+  <br>
+  <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
+  <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
+  <a href="https://dogs.jaw.dev/">🐶</a>&nbsp;&nbsp;
+  <a href="https://videos.jaw.dev/">📺</a>
 </div>
