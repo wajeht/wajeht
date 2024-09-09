@@ -7,10 +7,12 @@ I am a `HTML Brogrammer` and a part-time <a href="https://videos.jaw.dev">`Meat 
 - <a href="https://ip.jaw.dev/">🌎 IP</a> - whatismyipaddress.com in just a few lines of code
 - <a href="https://www.npmjs.com/package/@wajeht/cdns">🕸️ Cdns</a> - a cli tool to schedule automatic updates for cloudflare dns records
 - <a href="https://gains.jaw.dev/">💪 Gains</a> - all in one tools to help strength athletes load the right amount of training dosage
-- <a href="https://dogs.jaw.dev/">🔔 Notify</a> - web 2.0 style notification systems for discord, email, and sms
+- <a href="https://notify.jaw.dev/">🔔 Notify</a> - web 2.0 style notification systems for discord, email, and sms
 - <a href="https://www.npmjs.com/package/@wajeht/capdb">💾 Capdb</a> - a cli tool specialized for database management in dockerized environments
-- <a href="https://dogs.jaw.dev/">🤖 Commit</a> - generate conventional commits with ai
+- <a href="https://commit.jaw.dev/">🤖 Commit</a> - generate conventional commits with ai
 - <a href="https://close-powerlifting.jaw.dev/">🏋️ Close Powerlifting</a> - an intuitive api for open-powerlifting database
+- <a href="https://powerlifting.gg/">💪 Powerlifting.gg</a> - multitenancy coaching review systems
+
 
 <div align="center">
   <span>____________________________________</span>
