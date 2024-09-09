@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>📺 wajeht - Video Gallery</title>
+
+  <script>
+    if (!document.referrer.includes('github.com')) {
+      window.location.href = 'https://dogs.jaw.dev/';
+    }
+  </script>
+
 </head>
-<body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-  <h1 style="text-align: center;">wajeht</h1>
-  <div style="text-align: center;">
-    <a href="https://github.com/wajeht">github</a>
-  </div>
 
+<body style="width: 800px; margin: 0 auto; padding: 20px;">
+  <h1 style="text-align: center;"><a href="https://github.com/wajeht">wajeht</a></h1>
+
+  <!-- gym -->
+  <h2>gym prs</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
-
-    <!-- recent -->
     <div>
       <video controls style="width: 100%; height: auto;">
         <source src="./public/videos/recent-squat-545.mp4" type="video/mp4">
@@ -37,8 +43,38 @@
       </video>
       <div style="text-align: center; margin-top: 5px;">dead 655x1</div>
     </div>
+  </div>
 
-    <!-- second meet -->
+  <!-- third meet -->
+  <h2>third meet</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+    <div>
+      <video controls style="width: 100%; height: auto;">
+        <source src="./public/videos/third-squat-495.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="text-align: center; margin-top: 5px;">squat 495x1</div>
+    </div>
+
+    <div>
+      <video controls style="width: 100%; height: auto;">
+        <source src="./public/videos/third-bench-395.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="text-align: center; margin-top: 5px;">bench 395x1</div>
+    </div>
+
+    <div>
+      <video controls style="width: 100%; height: auto;">
+        <source src="./public/videos/third-dead-545.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="text-align: center; margin-top: 5px;">dead 545x1</div>
+    </div>
+  </div>
+  <!-- second meet -->
+  <h2>second meet</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
     <div>
       <video controls style="width: 100%; height: auto;">
         <source src="./public/videos/second-meet-squats.mp4" type="video/mp4">
@@ -63,5 +99,19 @@
       <div style="text-align: center; margin-top: 5px;">dead 562x1, 595x1, 595x1</div>
     </div>
   </div>
+
+  <!-- first -->
+  <h2>first meet</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+    <div>
+      <video controls style="width: 100%; height: auto;">
+        <source src="./public/videos/first-squat-bench-dead.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div style="text-align: center; margin-top: 5px;">squat 522x1, bench 352x1, dead 600x1</div>
+    </div>
+  </div>
+
 </body>
+
 </html>
