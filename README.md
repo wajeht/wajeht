@@ -9,6 +9,8 @@ I am a `HTML Brogrammer` and a part-time <a href="https://videos.jaw.dev">`Meat 
 - <a href="https://gains.jaw.dev/">💪 Gains</a> - all in one tools to help strength athletes load the right amount of training dosage
 - <a href="https://close-powerlifting.jaw.dev/">🏋️ Close Powerlifting</a> - an intuitive api for open-powerlifting database
 - <a href="https://ip.jaw.dev/">🌎 IP</a> - whatismyipaddress.com in just a few lines of code
+- <a href="https://www.npmjs.com/package/@wajeht/capdb">💾 Capdb</a> - a cli tool specialized for database management in dockerized environments
+- <a href="https://www.npmjs.com/package/@wajeht/cdns">🕸️ Cdns</a> - a cli tool to schedule automatic updates for cloudflare dns records
 
 
 <div align="center">
