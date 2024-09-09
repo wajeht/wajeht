@@ -18,7 +18,7 @@ I'm a `HTML Brogrammer` and a part-time competitive [`Meat Head`](https://videos
 - [🏋️ Close Powerlifting](https://close-powerlifting.jaw.dev/) - an intuitive API for Open Powerlifting database
 
 <div align="center">
-  <span>____________________________________</span>
+  <span style="border-color: #eee">____________________________________</span>
   <br>
   <br>
   <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
