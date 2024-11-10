@@ -8,8 +8,9 @@ I'm a `HTML Programmer` and a part-time competitive [`Strength Athlete`](https:/
 
 ### 🚀 Featured Projects
 
-- [‼️ Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
+
 - [🌎 IP](https://ip.jaw.dev/) - whatismyipaddress.com in just a few lines of code
+- [‼️ Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
 - [🕸️ Cdns](https://www.npmjs.com/package/@wajeht/cdns) - a CLI tool to schedule automatic updates for Cloudflare DNS records
 - [💪 Gains](https://gains.jaw.dev/) - all-in-one tools to help strength athletes load the right amount of training dosage
 - [🔔 Notify](https://notify.jaw.dev/) - Web 2.0 style notification systems for Discord, email, and SMS
