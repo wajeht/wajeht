@@ -4,7 +4,7 @@ I'm a `HTML Programmer` and a part-time competitive [`Strength Athlete`](https:/
 
 **It's not just work - it's a lifestyle, bro!**
 
-*I use `vim` btw* 😎
+I also use *`vim`* btw 😎
 
 ### 🚀 Featured Projects
 
