@@ -1,6 +1,6 @@
 ### 👋 Hi there, this is *Jaw!*
 
-I'm a `HTML Brogrammer` and a part-time competitive [`Meathead`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
+I'm a `HTML Programmer` and a part-time competitive [`Strength Athlete`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
 **It's not just work - it's a lifestyle, bro!**
 
@@ -8,6 +8,7 @@ I'm a `HTML Brogrammer` and a part-time competitive [`Meathead`](https://videos.
 
 ### 🚀 Featured Projects
 
+- [‼️ Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
 - [🌎 IP](https://ip.jaw.dev/) - whatismyipaddress.com in just a few lines of code
 - [🕸️ Cdns](https://www.npmjs.com/package/@wajeht/cdns) - a CLI tool to schedule automatic updates for Cloudflare DNS records
 - [💪 Gains](https://gains.jaw.dev/) - all-in-one tools to help strength athletes load the right amount of training dosage
