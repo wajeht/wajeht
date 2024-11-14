@@ -10,11 +10,11 @@ I also use *`vim`* btw 😎
 
 
 - [🌎 IP](https://ip.jaw.dev/) - whatismyipaddress.com in just a few lines of code
-- [‼️ Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
+- [❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
 - [🕸️ Cdns](https://www.npmjs.com/package/@wajeht/cdns) - a CLI tool to schedule automatic updates for Cloudflare DNS records
 - [💪 Gains](https://gains.jaw.dev/) - all-in-one tools to help strength athletes load the right amount of training dosage
-- [🔔 Notify](https://notify.jaw.dev/) - Web 2.0 style notification systems for Discord, email, and SMS
 - [💾 Capdb](https://www.npmjs.com/package/@wajeht/capdb) - a CLI tool specialized for database management in dockerized environments
+- [🔔 Notify](https://notify.jaw.dev/) - Web 2.0 style notification systems for Discord, email, and SMS
 - [🤖 Commit](https://commit.jaw.dev/) - generate conventional commits with AI
 - [💪 Powerlifting.gg](https://powerlifting.gg/) - multitenancy coaching review systems
 - [🏋️ Close Powerlifting](https://close-powerlifting.jaw.dev/) - an intuitive API for Open Powerlifting database
