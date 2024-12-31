@@ -1,16 +1,18 @@
 ### 👋 Hi there, this is *Jaw!*
 
-I'm a `HTML Programmer` and a part-time competitive [`Strength Athlete`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
+I'm a `HTML Programmer` and a part-time competitive [`Competitive Meathead`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
-**It's not just work - it's a lifestyle, bro!**
+**I build and ship useful stuff — and it’s not just work, it’s a lifestyle**!
 
-I also use *`vim`* btw 😎
+Oh, and I use *`Vim`*, btw. 😎
 
-### 🚀 Featured Projects
+### 🍳 What's cooking?
+- **✨ [Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids! 💥🔥** 🔫💥💀🎤
 
 
+
+### 🚀 Check these out!
 - [🌎 IP](https://ip.jaw.dev/) - whatismyipaddress.com in just a few lines of code
-- [❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids.
 - [🕸️ Cdns](https://www.npmjs.com/package/@wajeht/cdns) - a CLI tool to schedule automatic updates for Cloudflare DNS records
 - [💪 Gains](https://gains.jaw.dev/) - all-in-one tools to help strength athletes load the right amount of training dosage
 - [💾 Capdb](https://www.npmjs.com/package/@wajeht/capdb) - a CLI tool specialized for database management in dockerized environments
