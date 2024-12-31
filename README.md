@@ -2,9 +2,16 @@
 
 I'm a `HTML Programmer` and a part-time competitive [`Competitive Meathead`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
+<br/>
+
+
 **I build and ship useful stuff — and it’s not just work, it’s a lifestyle**!
 
+<br/>
+
 Oh, and I use *`Vim`*, btw. 😎
+
+<br/>
 
 ### 🍳 What's cooking?
 - **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids! 💥🔥** 🔫💥💀🎤
