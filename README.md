@@ -7,8 +7,7 @@ I'm a `HTML Programmer` and a part-time competitive [`Competitive Meathead`](htt
 Oh, and I use *`Vim`*, btw. 😎
 
 ### 🍳 What's cooking?
-- **✨ [Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids! 💥🔥** 🔫💥💀🎤
-
+- **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids! 💥🔥** 🔫💥💀🎤
 
 
 ### 🚀 Check these out!
