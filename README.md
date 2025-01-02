@@ -2,7 +2,7 @@
 
 I'm a `HTML Programmer` and a part-time [`Competitive Meathead`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
-**I build and ship useful stuff — it’s not just work, it’s a lifestyle**!
+**I also build and ship useful software — it’s not just work, it’s a lifestyle**!
 
 Oh, and I use *`Vim`*, btw. 😎
 
