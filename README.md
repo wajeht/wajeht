@@ -7,13 +7,13 @@ I'm a `HTML Programmer` and a part-time [`Competitive Meathead`](https://videos.
 Oh, and I use *`Vim`*, btw. 😎
 
 ### 🍳 What's cooking?
-- **[📱SMS](https://sms.jaw.dev/) - Find Carrier Email Addresses for Phone Numbers 💥🔥** 🔫💥💀🎤
+- **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids! 💥🔥** 🔫💥💀🎤
 
 ### 🚀 Check these out!
 
 - [🌎 IP](https://ip.jaw.dev/) - whatismyipaddress.com in just a few lines of code
+- [📱SMS](https://sms.jaw.dev/) - Find Carrier Email Addresses for Phone Numbers
 - [🕸️ Cdns](https://www.npmjs.com/package/@wajeht/cdns) - a CLI tool to schedule automatic updates for Cloudflare DNS records
-- [❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids!
 - [💪 Gains](https://gains.jaw.dev/) - all-in-one tools to help strength athletes load the right amount of training dosage
 - [💾 Capdb](https://www.npmjs.com/package/@wajeht/capdb) - a CLI tool specialized for database management in dockerized environments
 - [🔔 Notify](https://notify.jaw.dev/) - Web 2.0 style notification systems for Discord, email, and SMS
