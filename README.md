@@ -7,7 +7,8 @@ I'm a `HTML Programmer` and a part-time [`Competitive Meathead`](https://videos.
 Oh, and I use *`Vim`*, btw. 😎
 
 ### 🍳 What's cooking?
-- **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids!** 💥🔥 🔫💥💀🎤
+- **[🗿 Chad](https://github.com/wajeht/chad) - A personal AI assistant that seamlessly embeds into every text area**
+- **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids!**
 - **[🔄 express-templates-reload](https://www.npmjs.com/package/@wajeht/express-templates-reload) - Automatically reload the browser for template and public asset changes in an Express app**
 
 ### 🚀 Check these out!
