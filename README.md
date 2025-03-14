@@ -10,6 +10,7 @@ Oh, and I use *`Vim`*, btw. 😎
 
 - **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids!**
 - **[🗿 Chad](https://github.com/wajeht/chad) - A personal AI assistant that seamlessly embeds into every text area**
+- **[🇺🇸 mm2us](https://mm2us.com) - United States Naturalization Test in Burmese**
 - **[🔄 express-templates-reload](https://www.npmjs.com/package/@wajeht/express-templates-reload) - Automatically reload the browser for template and public asset changes in an Express app**
 
 ### 🚀 Check these out!
@@ -21,7 +22,6 @@ Oh, and I use *`Vim`*, btw. 😎
 - [💾 Capdb](https://www.npmjs.com/package/@wajeht/capdb) - a CLI tool specialized for database management in dockerized environments
 - [🔔 Notify](https://notify.jaw.dev/) - Web 2.0 style notification systems for Discord, email, and SMS
 - [🤖 Commit](https://commit.jaw.dev/) - generate conventional commits with AI
-- [💪 Powerlifting.gg](https://powerlifting.gg/) - multitenancy coaching review systems
 - [🏋️ Close Powerlifting](https://close-powerlifting.jaw.dev/) - an intuitive API for Open Powerlifting database
 
 <div align="center">
@@ -31,5 +31,4 @@ Oh, and I use *`Vim`*, btw. 😎
   <a href="mailto:github@jaw.dev">💌</a>&nbsp;&nbsp;
   <a href="https://jaw.dev/">🌐</a>&nbsp;&nbsp;
   <a href="https://dogs.jaw.dev/">🐶</a>&nbsp;&nbsp;
-  <a href="https://videos.jaw.dev/">📺</a>
 </div>
