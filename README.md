@@ -1,12 +1,12 @@
-### 👊 Yo, this is *Jaw!*
+### 👋 hi there, this is *Jaw!*
 
-I'm a `HTML Programmer` and a part-time [`Competitive Meathead`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
+I'm a `Programmer` and a part-time [`Competitive Strength Athlete`](https://videos.jaw.dev). My passions? Tinkering with `dev tools`, crafting slick `UX-rich software`, and diving deep into the rabbit hole of `self-hosting and homelabbing`.
 
 **I also build and ship useful software — it’s not just work, it’s a lifestyle**!
 
 Oh, and I use *`Vim`*, btw. 😎
 
-### 🍳 What's cooking?
+### 📚 Latest projects
 
 - **[❗️Bang](https://bang.jaw.dev/) - DuckDuckGo's !Bangs, but on steroids!**
 - **[🗿 Chad](https://github.com/wajeht/chad) - A personal AI assistant that seamlessly embeds into every text area**
