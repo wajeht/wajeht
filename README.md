@@ -4,7 +4,7 @@ I'm a `Programmer` and a part-time [`Competitive Strength Athlete`](https://vide
 
 **I also build and ship useful software — it’s not just work, it’s a lifestyle**!
 
-Oh, and I use *`Vim`*, btw. 😎
+Oh, and I use [*`Vim`*](https://github.com/wajeht/dotfiles), btw. 😎
 
 ### 📚 Latest projects
 
