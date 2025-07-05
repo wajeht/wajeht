@@ -8,7 +8,7 @@ Oh, and I use [*`Vim`*](https://github.com/wajeht/dotfiles), btw. 😎
 
 ### 📚 Latest projects
 
-- **[❗️Bang](https://bang.jaw.dev/) - Your personal command center for blazingly fast web navigation and note taking!**
+- **[⚡️ Bang](https://bang.jaw.dev/) - Your personal command center for blazingly fast web navigation and note taking!**
 - **[🗿 Chad](https://github.com/wajeht/chad) - A personal AI assistant that seamlessly embeds into every text area**
 - **[🇺🇸 mm2us](https://mm2us.com) - United States Naturalization Test in Burmese**
 - **[🔄 express-templates-reload](https://www.npmjs.com/package/@wajeht/express-templates-reload) - Automatically reload the browser for template and public asset changes in an Express app**
