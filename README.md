@@ -6,7 +6,7 @@ I'm a `Programmer` and a part-time `Competitive Strength Athlete`. My passions? 
 
 Oh, and I use [*`Vim`*](https://github.com/wajeht/dotfiles), btw. 😎
 
-### 📚 Latest projects
+### 📚 latest projects
 
 - [🗓️ Calendar](https://calendar.jaw.dev/) - A web-based calendar application with multiple calendar source support via iCal/WebCal URLs
 - [⚡️ Bang](https://bang.jaw.dev/) - Your personal command center for blazingly fast web navigation!
